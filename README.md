@@ -1,6 +1,6 @@
 # Mini Programs
 
-I generated this code repository to store some small programs I wrote.
+I generated this code repository to store some mini programs I wrote.
 
 ## These small programs are as follows: 
 
