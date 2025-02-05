@@ -1,3 +1,0 @@
-([('BMI_Calculator',
-   '/Users/shuyanrocky/Desktop/py202502/dist/BMI_Calculator',
-   'EXECUTABLE')],)
